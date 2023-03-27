@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0000" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2023-03-27T12:08:00" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Validate" timestamp="2023-03-27T12:08:00" tests="2" file="/Users/Matt.Roberts/Downloads/project/test/test.js" time="0.0000" failures="0">
+    <testcase name="Validate should validate a simple object" time="0.0000" classname="should validate a simple object">
+    </testcase>
+    <testcase name="Validate should not validate against an invalid object" time="0.0000" classname="should not validate against an invalid object">
+    </testcase>
+  </testsuite>
+</testsuites>
